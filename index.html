@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>The Scala.js Tutorial</title>
+    <style>
+   #AppMaturity, #AppRisk {
+    width: 20%;
+    background-color: grey;
+    }
+
+  #AppMaturityBar, #AppRiskBar {
+    width: 1%;
+    height: 30px;
+    background-color: green;
+    text-align: center; /* To center it horizontally (if you want) */
+    line-height: 30px; /* To center it vertically */
+    color: white;
+  }
+
+  #spaces {
+     margin:10px
+  }
+    </style>
+  </head>
+  <body>
+
+    <div id="mydiv"></div>
+    Application Maturity
+    <div id="AppMaturity">
+      <div id="AppMaturityBar">10%</div>
+    </div>
+
+    <div id ="spaces"></div>
+    Application Risks
+    <div id="AppRisk">
+      <div id="AppRiskBar">10%</div>
+    </div>
+
+    <!-- Include Scala.js compiled code -->
+    <script type="text/javascript" src="./target/scala-2.12/apm-frontend-fastopt.js"></script>
+  </body>
+</html>

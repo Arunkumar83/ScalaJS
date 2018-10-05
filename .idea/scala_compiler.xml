@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="sbt 1" modules="scalajs_9842" />
+    <profile name="sbt 2" modules="scalajs">
+      <option name="deprecationWarnings" value="true" />
+      <option name="uncheckedWarnings" value="true" />
+      <parameters>
+        <parameter value="-encoding" />
+        <parameter value="utf8" />
+      </parameters>
+      <plugins>
+        <plugin path="C:\Users\768233\.ivy2\cache\org.scala-js\scalajs-compiler_2.12.3\jars\scalajs-compiler_2.12.3-0.6.24.jar" />
+      </plugins>
+    </profile>
+  </component>
+</project>

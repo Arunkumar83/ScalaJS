@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0mD:\docs\learn\scalajs\src\main\scala\com\app\APMApp.scala:175:37: could not find implicit value for evidence parameter of type upickle.default.Reader[com.app.AppModel.AppScore][0m
+[0m[[0m[31merror[0m] [0m[0m         val scores = read[AppScore](xhr.responseText)[0m
+[0m[[0m[31merror[0m] [0m[0m                                    ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

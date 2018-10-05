@@ -1,0 +1,16 @@
+[0m[[0m[0minfo[0m] [0m[0mFast optimizing D:\docs\learn\scalajs\target\scala-2.12\apm-frontend-fastopt.js[0m
+[0m[[0m[0mdebug[0m] [0m[0mLinker: Compute reachability: 75137 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mLinker: Assemble LinkedClasses: 23810 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mBasic Linking: 102107 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mInc. optimizer: Batch mode: false[0m
+[0m[[0m[0mdebug[0m] [0m[0mInc. optimizer: Incremental part: 6616 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mInc. optimizer: Optimizing 3 methods.[0m
+[0m[[0m[0mdebug[0m] [0m[0mInc. optimizer: Optimizer part: 1960 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mInc. optimizer: 11277 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mRefiner: Compute reachability: 81719 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mRefiner: Assemble LinkedClasses: 4058 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mRefiner: 85861 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: Class tree cache stats: reused: 1150 -- invalidated: 1[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: Method tree cache stats: resued: 3082 -- invalidated: 1[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter (write output): 52376 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mGlobal IR cache stats: reused: 45 -- invalidated: 1 -- trees read: 1[0m
